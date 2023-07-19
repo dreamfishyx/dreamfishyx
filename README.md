@@ -1,6 +1,4 @@
-
 <!-- 背景图 -->
-<br />
 <br />
 <img align="right" alt="GIF" src="./assets/bg.png" width="400"/>
 
@@ -8,6 +6,7 @@
 <h2 height="199px" align="center">📌 About Me</h2>
 <br />
 - 🪶 hi, Iim dreamfish~<br />
+- 🔆 My life motto:If you are undecided, you can ask the spring breeze; if the spring breeze is silent, follow your heart.
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~<br />
 - 🌱 I’m currently learning java、python~<br />
 - 🐋 I have a private site: [dreamsea](https://www.dreamfish.cc), you're welcome to come! ~<br />
