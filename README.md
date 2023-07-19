@@ -6,6 +6,10 @@
 ### 语言数据
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamfishyx&theme=dark&layout=compact)
 
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamfishyx&layout=compact)
+![livingbody's GitHub stats](https://github-readme-stats.vercel.app/api?username=dreamfishyx&show_icons=true)
 <!--
 **dreamfishyx/dreamfishyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
