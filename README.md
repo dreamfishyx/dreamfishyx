@@ -1,16 +1,16 @@
 <!-- 背景图 -->
 <br />
-<img align="right" alt="GIF" src="./image/bg.png" width="350"/>
+<img align="right" alt="GIF" src="./image/bg.png" width="290"/>
 
 <!-- 关于我 -->
 <h2 height="199px" align="center">📌 About Me</h2>
 <br />
 - 🪶 hi, Iim dreamfish...<br />
-- 🔆 My life motto:If you are undecided, you can ask the spring breeze; if the spring breeze is silent, follow your heart.<br />
 - 👨‍💻 I'm passionate about coding and have been developing my skill!<br />
 - 🌱 I’m currently learning java、python~<br />
 - 🐋 I have a private site: [dream sea](https://www.dreamfish.cc/), you're welcome to come!<br />
 - 📨 My email address is `yxlumengyu@qq.com` Welcome to contact me👏🏻.<br />
+- 🔆 My life motto：If you are undecided, you can ask the spring breeze; if the spring breeze is silent, follow your heart.<br />
 <h2 height="199px" align="center"></h2>
 
 GitHub状态:<br />
