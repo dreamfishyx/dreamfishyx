@@ -9,7 +9,7 @@
 - 👨‍💻 I'm passionate about coding and have been developing my skill!<br />
 - 🌱 I’m currently learning java、python~<br />
 - 🐋 I have a private site: <a href="https://www.dreamfish.cc">dreamfish'sea</a>, you're welcome to come!<br />
-- 📨 My email address is `yxlumengyu@qq.com` Welcome to contact me👏🏻.<br />
+- 📨 My email address is  yxlumengyu@qq.com  . Welcome to contact me👏🏻.<br />
 - 🔆 If you are undecided, you can ask the spring breeze; if the spring breeze is silent, follow your heart.<br />
 <h2 height="199px" align="center"></h2>
 
