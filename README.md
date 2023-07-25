@@ -1,7 +1,7 @@
 <!-- 背景图 -->
 <img align="right" alt="GIF" src="./image/bg.png" width="229"/>
 
-<!-- Aout Me -->
+<!-- Aout me -->
 <h2 height="199px" align="center">📌 About Me</h2>
 <br />
 <br />
@@ -20,13 +20,15 @@ My commits:
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
   <img width="100%" alt="github-snake" src="./assets/github-snake.svg"/>
 </picture>
-
+<h2 height="199px" align="center"></h2>
 
 GitHub status:<br />
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dreamfishyx&show_icons=true&theme=default&count_private=true)
+<h2 height="199px" align="center"></h2>
 
 Common languages:<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamfishyx&layout=compact&theme=default)](https://github.com/dreamfishyx/github-readme-stats)
+<h2 height="199px" align="center"></h2>
 
 Recently active:<br />
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dreamfishyx&theme=tokyonight-duo)](https://git.io/streak-stats)
