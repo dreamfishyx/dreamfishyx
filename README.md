@@ -1,7 +1,7 @@
 <!-- 背景图 -->
 <img align="right" alt="GIF" src="./image/bg.png" width="229"/>
 
-<!-- 关于我 -->
+<!-- Aout Me -->
 <h2 height="199px" align="center">📌 About Me</h2>
 <br />
 <br />
@@ -13,16 +13,22 @@
 <br />
 <h2 height="199px" align="center"></h2>
 
-我的提交:<br />
-<img align="center" src="https://raw.githubusercontent.com/dreamfishyx/dreamfishyx/master/github-contribution-grid-snake-dark.svg" />      
+<!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
+My commits:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+  <img width="100%" alt="github-snake" src="./assets/github-snake.svg"/>
+</picture>
 
-GitHub状态:<br />
+
+GitHub status:<br />
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dreamfishyx&show_icons=true&theme=default&count_private=true)
 
-常用语言:<br />
+Common languages:<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamfishyx&layout=compact&theme=default)](https://github.com/dreamfishyx/github-readme-stats)
 
-最近活跃:<br />
+Recently active:<br />
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dreamfishyx&theme=tokyonight-duo)](https://git.io/streak-stats)
 <!--
 **dreamfishyx/dreamfishyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
