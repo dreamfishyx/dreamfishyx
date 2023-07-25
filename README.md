@@ -14,7 +14,7 @@
 <h2 height="199px" align="center"></h2>
 
 我的提交:<br />
-![贡献](https://raw.githubusercontent.com/dreamfishyx/dreamfishyx/output/github-contribution-grid-snake.svg)         
+![贡献](https://raw.githubusercontent.com/dreamfishyx/dreamfishyx/main/github-contribution-grid-snake.svg)         
 
 GitHub状态:<br />
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dreamfishyx&show_icons=true&theme=default&count_private=true)
