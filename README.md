@@ -1,5 +1,5 @@
 <!-- 背景图 -->
-<img align="right" alt="GIF" src="./image/bg.png" width="229"/>
+<img align="right" alt="pic" src="./image/bg.png" width="229"/>
 
 <!-- Aout me -->
 <h2 height="199px" align="center">📌 About Me</h2>
