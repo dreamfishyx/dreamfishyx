@@ -7,7 +7,7 @@
 <br />
 - 🪶 嗨, 我是梦鱼...<br />
 - 👨‍💻 我对编码充满热情, 并一直在发展我的技能!<br />
-- 🌱 我目前正在学习 java、python。<br />
+- 🌱 我目前正在学习 java、python以及linux。<br />
 - 🐋 我的个人网站: <a href="https://dreamfish.cc">dreamfish'sea</a>, 欢迎您的到来!<br />
 - 🔆 人生格言：遇事不决, 可问春风; 春风不语, 即随本心。<br />
 <br />
