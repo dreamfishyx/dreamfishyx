@@ -15,7 +15,7 @@
 
 Leetcode Stats:
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/yxlumengyu?ext=heatmap&site=cn&theme=unicorn)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/yxlumengyu?ext=heatmap&site=cn&theme=unicorn)](https://leetcode.cn/yxlumengyu)
 
 <h2 height="199px" align="center"></h2>
 
