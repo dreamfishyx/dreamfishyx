@@ -12,6 +12,10 @@
 - 🔆 人生格言：遇事不决, 可问春风; 春风不语, 即随本心。<br />
 <br />
 <h2 height="199px" align="center"></h2>
+Leetcode Stats<br />
+![Leetcode Stats](https://leetcard.jacoblin.cool/yxlumengyu?theme=light,unicorn & site=cn)
+
+<h2 height="199px" align="center"></h2>
 
 <!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
 My commits:
