@@ -31,6 +31,8 @@ GitHub Status:<br />
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dreamfishyx&show_icons=true&theme=default&count_private=true)
 <h2 height="199px" align="center"></h2>
 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dreamfishyx&theme=github&bg_color=FF000000&color=000000&hide_border=true)
+
 Common Languages:<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamfishyx&layout=compact&theme=default)](https://github.com/dreamfishyx/github-readme-stats)
 <h2 height="199px" align="center"></h2>
