@@ -12,13 +12,15 @@
 - 🔆 人生格言：遇事不决, 可问春风; 春风不语, 即随本心。<br />
 <br />
 <h2 height="199px" align="center"></h2>
-Leetcode Stats<br />
-![Leetcode Stats](https://leetcard.jacoblin.cool/yxlumengyu?theme=light,unicorn & site=cn)
+
+Leetcode Stats:
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/yxlumengyu?ext=heatmap&site=cn&theme=unicorn)
 
 <h2 height="199px" align="center"></h2>
 
 <!-- 贪吃蛇 - 图片有 actions/Generate Snake 定时生成 -->
-My commits:
+My Commits:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
@@ -26,15 +28,15 @@ My commits:
 </picture>
 <h2 height="199px" align="center"></h2>
 
-GitHub status:<br />
+GitHub Status:<br />
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dreamfishyx&show_icons=true&theme=default&count_private=true)
 <h2 height="199px" align="center"></h2>
 
-Common languages:<br />
+Common Languages:<br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamfishyx&layout=compact&theme=default)](https://github.com/dreamfishyx/github-readme-stats)
 <h2 height="199px" align="center"></h2>
 
-Recently active:<br />
+Recently Active:<br />
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dreamfishyx&theme=tokyonight-duo)](https://git.io/streak-stats)
 <!--
 **dreamfishyx/dreamfishyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
