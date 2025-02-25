@@ -19,7 +19,7 @@
 - 🪶 嗨, 我是梦鱼...<br />
 - 👨‍💻 我对编码充满热情, 并一直在发展我的技能!<br />
 - 🌱 我目前正在学习 java、python以及linux。<br />
-- 🐋 我的个人网站: <a href="https://dreamfish.cc">dream sea</a>, 欢迎您的到来!<br />
+- 🐋 我的个人网站: <a href="https://dreamfish.cc">Dream sea</a>, 欢迎您的到来!<br />
 - 🔆 世界上有两个我，一个属于星河，一个归于烟火！<br />
 <br />
 
@@ -44,7 +44,8 @@ Recently Active:<br />
 Leetcode Stats:<br />
 
 <!-- https://github.com/JacobLinCool/LeetCode-Stats-Card -->
-[![Leetcode Stats](https://leetcard.jacoblin.cool/yxlumengyu?ext=heatmap&site=cn&theme=unicorn)](https://leetcode.cn/yxlumengyu)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/yxlumengyu?ext=heatmap&site=cn&theme=unicorn)](https://leetcode.cn/yxlumengyu)<br />
+[![Leetcode Stats](https://leetcard.jacoblin.cool/yxlumengyu?ext=activity&site=cn&theme=unicorn)](https://leetcode.cn/yxlumengyu)
 
 Activity Graph:<br />
 
