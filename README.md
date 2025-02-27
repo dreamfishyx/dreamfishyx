@@ -20,6 +20,7 @@
 - 👨‍💻 我对编码充满热情, 并一直在发展我的技能!<br />
 - 🌱 我目前正在学习 java、python以及linux。<br />
 - 🐋 我的个人网站: <a href="https://dreamfish.cc">Dream sea</a>, 欢迎您的到来!<br />
+- 💬 我的学习笔记: [my_notes](https://github.com/dreamfishyx/my_notes)!<br />
 - 🔆 世界上有两个我，一个属于星河，一个归于烟火！<br />
 <br />
 
